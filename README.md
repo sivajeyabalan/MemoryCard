@@ -11,5 +11,4 @@ Currently, two official plugins are available:
 # MemoryCard
 A memory Card Game
 
-==Hello Guys==
->>>>>>> a23bda32edfdef87698ebfac99f3e96d345ed973
+**TOP PROJECT**
