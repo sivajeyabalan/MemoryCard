@@ -164,8 +164,7 @@ h1 {
   bottom: 20px;
   left: 50%;
   transform: translateX(-50%);
-  background-color: #19e716; /* Red color to indicate a loss */
-  color: white;
+  background-color: #19e716; 
   padding: 10px 20px;
   border-radius: 5px;
   font-size: 16px;
