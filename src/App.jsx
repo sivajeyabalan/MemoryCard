@@ -54,7 +54,7 @@ function App() {
     if ( selectedCards.includes(id)){
       setCurrentScore(0);
       setSelectedCards([]);
-      showToast(true);
+      setShowToast(true);
       setTimeout(() => setShowToast(false), 3000);
     }
     else {
@@ -78,6 +78,7 @@ function App() {
       {showToast && (
         <div className="toast">
           <p>You lost! Try again!</p>
+          {console.log("Toast")}
         </div>
       )}
       {loading ? (
