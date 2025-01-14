@@ -1,4 +1,3 @@
-Here’s a professional **README.md** template for your memory card game application:
 
 ---
 
@@ -45,7 +44,7 @@ A fun and interactive memory card game where players test their memory by select
 5. Try to beat your best score!
 
 ## Preview 📸
-![Memory Card Game Screenshot](![alt text](image.png))  
+![alt text](image.png)
 
 ## Future Enhancements 🚀
 - Add more themes and card designs.
